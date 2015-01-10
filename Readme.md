@@ -8,8 +8,12 @@ This GUI application is designed to quickly load and visualize the contents of
 an acquisition software developed for SPM 150 Aarhus, the STM setup originally 
 designed by Professors Flemming Besenbacher, Erik Lægsgaard, and Ivan Stensgaard 
 at the University of Aarhus, Denmark. This STM design is being exclusively produced 
-and marketed by SPECS GmbH.
+and marketed by [SPECS GmbH](http://www.specs.de/).
 
 The code also contains functions to convert the contents of .mul, .flm and .miv files
 into separated images and point scans (like IV curves) with the file format of 
 nanotec [WSXM](http://www.wsxmsolutions.com/) program (www.nanotec.es).
+
+Enjoy!
+
+Jesús Martínez-Blanco
